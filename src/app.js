@@ -1,1 +1,1 @@
-// App entry
+export default class App {}
